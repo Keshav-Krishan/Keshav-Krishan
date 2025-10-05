@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Keshav+Krishan;B.Tech+IT+Student+@+NIET,+Greater+Noida;Aspiring+AI+and+Chatbot+Developer" alt="Typing SVG" />
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&pause=1000&color=1B8BF7&width=435&separator=%3C&lines=Hi+there+%F0%9F%91%8B;%3C+I'm+Keshav+Krishan;+%3CAI+%26+Chatbot+Developer;+Tech+Enthusiast+%F0%9F%92%BB;+%3CFrom+NIET%2C+Greater+Noida)](https://git.io/typing-svg)font=Poppins&size=28&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Keshav+Krishan;B.Tech+IT+Student+@+NIET,+Greater+Noida;Aspiring+AI+and+Chatbot+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
