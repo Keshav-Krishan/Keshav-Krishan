@@ -65,7 +65,6 @@ Here are some of my top works 👇
 - 🔹 [String Manipulation Projects](#)  
 - 🔹 [AI & NLP Learning Repo](#)  
 
-*(Replace `#` with your actual repo links once ready!)*
 
 ---
 
