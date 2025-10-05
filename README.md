@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Keshav Krishan</h1>
-<h3 align="center">B.Tech IT Student at NIET, Greater Noida | Tech Enthusiast | GFG & GDG Member</h3>
+<h3 align="center">B.Tech IT Student at NIET, Greater Noida | Tech Enthusiast | Aspiring AI Developer</h3>
 
 ---
 
 ### 👨‍💻 About Me  
 - 🎓 Pursuing **B.Tech in Information Technology (2024–2028)** from **NIET, Greater Noida**  
-- 💡 Interested in **AI, Chatbots, and Web Development**  
+- 💡 Passionate about **AI, Chatbots, and Web Development**  
 - 💬 Ask me about **Java, Python, HTML, CSS, and GitHub Projects**  
 - 🧠 Currently learning **Advanced Chatbot Development & NLP**  
-- 🌱 Member of **GeeksforGeeks (GFG)** and **Google Developer Group (GDG)** at NIET  
 - 📫 Reach me at **keshavkrishan1974@gmail.com**
 
 ---
@@ -45,7 +44,7 @@ Here are some of my favorite works 👇
 ---
 
 ### 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keshav-krishan-710b8a32b/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keshavkrishan1974@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Keshav-Krishan)
 
