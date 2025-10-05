@@ -62,8 +62,8 @@
 Here are some of my top works 👇  
 - 🔹 [Chatbot Development Practice](#)  
 - 🔹 [Java Programs Collection](#)  
-- 🔹 [String Manipulation Projects](#)  
-- 🔹 [AI & NLP Learning Repo](#)  
+- 🔹 [PathFinder- A project for student to choose their carrier.](https://github.com/Keshav-Krishan/Pathfinder)  
+- 🔹 [Online Shopping Cart](https://github.com/Keshav-Krishan/Online-Shopping-Cart)  
 
 
 ---
